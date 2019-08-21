@@ -3,7 +3,7 @@
 
 ## Well Kept Striker
 
-![image](file://images/Well_Kept_Striker.jpg)
+![image](images/Well_Kept_Striker.jpg)
 
 `BLOZ(igAAAABflwAAjIE9EGMw1MAKgIUBpgLWAqz//yKwAPBMwcqDZQLm)`
 
