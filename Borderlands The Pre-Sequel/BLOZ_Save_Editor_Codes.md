@@ -14,7 +14,7 @@
 
 #### Purging Anarchist
 
-![pic](images/Purging_Anarchist.jpg){ width="400px" }
+![pic](images/Purging_Anarchist.jpg)
 
 `BLOZ(igAAAADEmwDDiwBABGMwUGBqwqSBqQTT/38UTDOYAPBUYMrF1I3p)`
 
@@ -22,19 +22,19 @@
 
 #### Value Subcompact MG
 
-![pic](images/Value_Subcompact_MG.jpg){ width="400px" }
+![pic](images/Value_Subcompact_MG.jpg)
 
 `BLOZ(igAAAACPrABBbAFBBnM4ROEqwJWASwNXA64NXB64APBI4WJAhYTr)`
 
 #### Fervid Gospel
 
-![pic](images/Fervid_Gospel.jpg){ width="400px" }
+![pic](images/Fervid_Gospel.jpg)
 
 `BLOZ(igAAAAC3kQBDrAFBDnM4/OBCwFWBiwFXAy4BXB64APAA4VLDFYrr)`
 
 #### Slick Projectile Convergence
 
-![pic](images/Slick_Projectile_Convergence.jpg){ width="400px" }
+![pic](images/Slick_Projectile_Convergence.jpg)
 
 `BLOZ(igAAAAB5uQBE7AFBEmMw3OAiwKWACwNXBK4NXB64APAw4TpARYTr)`
 
@@ -42,7 +42,7 @@
 
 #### Well Kept Striker
 
-![pic](images/Well_Kept_Striker.jpg){ width="400px" }
+![pic](images/Well_Kept_Striker.jpg)
 
 `BLOZ(igAAAABflwAAjIE9EGMw1MAKgIUBpgLWAqz//yKwAPBMwcqDZQLm)`
 
