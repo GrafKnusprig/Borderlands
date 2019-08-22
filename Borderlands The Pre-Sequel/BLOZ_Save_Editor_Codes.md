@@ -1,6 +1,6 @@
 # Borderlands The Pre-Sequel SaveEditor Codes
 
-- [PISTOLS]
+- [PISTOLS](## PISTOLS)
   - [Purging Anarchist]
 - [SMGS]
   - [Value Subcompact MG]
