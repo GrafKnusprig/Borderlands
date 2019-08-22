@@ -1,13 +1,13 @@
 # Borderlands The Pre-Sequel SaveEditor Codes
 
-- [PISTOLS]
-  - [Purging Anarchist]
-- [SMGS]
-  - [Value Subcompact MG]
-  - [Fervid Gospel]
-  - [Slick Projectile Convergence]
-- [SHOTGUNS]
-  - [Well Kept Striker]
+- [PISTOLS](#PISTOLS)
+  - [Purging Anarchist](#Purging_Anarchist)
+- [SMGS](#SMGS)
+  - [Value Subcompact MG](#Value-Subcompact-MG)
+  - [Fervid Gospel](#Fervid-Gospel)
+  - [Slick Projectile Convergence](#Slick-Projectile-Convergence)
+- [SHOTGUNS](#SHOTGUNS)
+  - [Well Kept Striker](#Well-Kept-Striker)
 
 
 ## PISTOLS

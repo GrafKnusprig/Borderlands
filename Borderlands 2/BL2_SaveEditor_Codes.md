@@ -1,19 +1,19 @@
 # Borderlands 2 SaveEditor Codes
 
-- [PISTOLS]
-  - [Sapping Peacemaker]
-  - [Oppressed TMP]
-  - [Loaded Anaconda]
-- [SMGS]
-  - [Hot Button Bane]
-  - [Fire Fire smig]
-- [ASSAULT RIFLES]
-  - [Horse Hammer Buster]
-- [SNIPER RIFLES]
-  - [Surgical Strike]
-- [GRENADES]
-  - [Rolling Thunder]
-  - [Sticky Homing Incendiary Grenade]
+- [PISTOLS](#PISTOLS)
+  - [Sapping Peacemaker](#Sapping-Peacemaker)
+  - [Oppressed TMP](#Oppressed-TMP)
+  - [Loaded Anaconda](#Loaded-Anaconda)
+- [SMGS](#SMGS)
+  - [Hot Button Bane](#Hot-Button-Bane)
+  - [Fire Fire smig](#Fire-Fire-smig)
+- [ASSAULT RIFLES](#ASSAULT-RIFLES)
+  - [Horse Hammer Buster](#Horse-Hammer-Buster)
+- [SNIPER RIFLES](#SNIPER-RIFLES)
+  - [Surgical Strike](#Surgical-Strike)
+- [GRENADES](#GRENADES)
+  - [Rolling Thunder](#Rolling-Thunder)
+  - [Sticky Homing Incendiary Grenade](#Sticky-Homing-Incendiary-Grenade)
 
 
 ## PISTOLS
