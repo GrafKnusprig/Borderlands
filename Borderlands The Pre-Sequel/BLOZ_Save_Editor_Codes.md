@@ -1,7 +1,7 @@
 # Borderlands The Pre-Sequel SaveEditor Codes
 
 - [PISTOLS](##PISTOLS)
-  - [Purging Anarchist](#Purging-Anarchist)
+  - [Purging Anarchist](Purging-Anarchist)
 - [SMGS]
   - [Value Subcompact MG]
   - [Fervid Gospel]
